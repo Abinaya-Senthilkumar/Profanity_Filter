@@ -42,6 +42,4 @@ Future Improvements
 
 
 Installation
-Clone the repository:
 
-   git clone https://github.com/Nithyasriperiasamy/ProfanityFilter.git
